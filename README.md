@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Current Status of Page
 
-### [Metro-Management-System-UI](https://ankitkkkk.github.io/Metro-Management-System-UI/){:target="_blank" rel="noopener"}
+### [Metro-Management-System-UI](https://ankitkkkk.github.io/Metro-Management-System-UI/)
 
 ## Available Scripts
 
