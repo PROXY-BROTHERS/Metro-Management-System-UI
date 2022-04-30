@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Metro-Management-System-UI/static/css/main.073c9b0a.css",
-    "main.js": "/Metro-Management-System-UI/static/js/main.08b93738.js",
+    "main.js": "/Metro-Management-System-UI/static/js/main.13dad528.js",
     "static/js/787.8f062ee1.chunk.js": "/Metro-Management-System-UI/static/js/787.8f062ee1.chunk.js",
     "static/media/logo.svg": "/Metro-Management-System-UI/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Metro-Management-System-UI/index.html",
     "main.073c9b0a.css.map": "/Metro-Management-System-UI/static/css/main.073c9b0a.css.map",
-    "main.08b93738.js.map": "/Metro-Management-System-UI/static/js/main.08b93738.js.map",
+    "main.13dad528.js.map": "/Metro-Management-System-UI/static/js/main.13dad528.js.map",
     "787.8f062ee1.chunk.js.map": "/Metro-Management-System-UI/static/js/787.8f062ee1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.08b93738.js"
+    "static/js/main.13dad528.js"
   ]
 }
