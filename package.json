@@ -2,7 +2,7 @@
     "name": "mms-ui",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://ankitkkkk.github.io/mms",
+    "homepage": "https://ankitkkkk.github.io/Metro-Management-System-UI",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.4",
         "@testing-library/react": "^13.1.1",
