@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### [Metro-Management-System-UI](https://ankitkkkk.github.io/Metro-Management-System-UI/)
 
+### LOCAL SETUP
+
+Run the script before starting the local server
+
+### `npm install react-scripts --save`
+
 ## Available Scripts
 
 In the project directory, you can run:
