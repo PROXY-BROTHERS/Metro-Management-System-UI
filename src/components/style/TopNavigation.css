@@ -1,0 +1,15 @@
+.top-navbar {
+    -webkit-box-shadow: 0 4px 6px -6px #222;
+    -moz-box-shadow: 0 4px 6px -6px #222;
+    box-shadow: 0 4px 6px -6px #222;
+    height: 45px;
+}
+
+.vertical-separator {
+    border-right: 1px solid #c0c5cd;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-top: 5px;
+    height: 28px;
+    position: relative;
+}

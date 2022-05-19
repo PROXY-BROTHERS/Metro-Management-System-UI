@@ -1,0 +1,100 @@
+.signupForm {
+    margin-top: 30px;
+    /* border: 2px solid red;
+    align-items: center;
+    justify-content: center; */
+}
+
+.formContainer {
+    /* justify-content: center;
+    border: 2px solid blue; */
+}
+
+.formRow {
+    /* border: 2px solid green;
+    align-items: center; */
+}
+
+.buttonLoading {
+    width: match-parent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.brand-name-align {
+    font-size: 25px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+@media screen and (min-width: 992px) {
+    .hrline {
+        margin-top: -5px;
+    }
+    .formLabel {
+        font-size: 50px;
+        margin: 0;
+        padding: 0;
+        /* width: inherit; */
+        /* border: 2px solid red; */
+    }
+    .formContainer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .formRow {
+        margin-left: auto;
+        margin-right: auto;
+        width: 470px;
+    }
+    .formCol {
+        -webkit-box-shadow: 0px 0px 6px 1px #222;
+        -moz-box-shadow: 0px 0px 6px 1px #222;
+        box-shadow: 0px 0px 6px 1px #222;
+        border-radius: 12px;
+        height: 450px;
+        margin-top: 0px;
+    }
+    .fieldResize {
+        margin-top: -6px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 375px;
+        /* border: 2px solid blue; */
+        /* border: 2px solid red; */
+    }
+    .labelResize {
+        /* border: 2px solid blue; */
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .hrline {
+        margin-top: -5px;
+    }
+    .formLabel {
+        font-size: 30px;
+    }
+    .formContainer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .formRow {
+        width: 300px;
+    }
+    .formCol {
+        -webkit-box-shadow: 0px 0px 6px 1px #222;
+        -moz-box-shadow: 0px 0px 6px 1px #222;
+        box-shadow: 0px 0px 6px 1px #222;
+        border-radius: 12px;
+        height: 50vh;
+        margin-top: 30px;
+    }
+}
+
+.sformCol {
+    height: 550px;
+}
