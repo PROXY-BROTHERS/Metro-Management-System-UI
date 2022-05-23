@@ -1,1 +1,8 @@
 export const URL = "https://metro-management-system.herokuapp.com/"
+// export const URL = "http://localhost:6090/"
+export const USER = "cb643f66-ecca-4303-b2e6-b7cdc89fa308"
+export const DOCTOR = "ba5140ec-1115-4ccb-8520-a6fafdab94b5"
+export const CLINIC = "7e785718-b28c-4fe5-9965-f78120545b23"
+export const HOSPITAL = "8f3efae0-1b01-401e-9474-b6bd92e315fd"
+export const ADMIN = "014635a9-a055-486b-8518-6a43cb9c6aae"
+export const SUPER = "8f0f1a43-faa7-4cba-9959-307bf6fa3efc"

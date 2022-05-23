@@ -20,7 +20,7 @@ export default function TopNavbar() {
     <>
     <Navbar bg="dark" expand="lg" variant='dark' sticky='top'>
     <Container>
-        <Navbar.Brand id='brand-name' onClick={() => dispatch(atHome())}>Metro Management <br/>System</Navbar.Brand>
+        <Navbar.Brand id='brand-name' onClick={() => dispatch(atHome())}>Patient Helping<br/>System</Navbar.Brand>
         
         {
         currentNavigationState != 5 &&

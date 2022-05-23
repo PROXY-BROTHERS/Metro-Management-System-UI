@@ -29,7 +29,7 @@ export default function LoginForm() {
           <Button variant="link" onClick={() => dispatch(atLogin())}>New User?</Button>
       </div>
       <div className='buttonLoading'>
-      <h1 className='brand-name-align'>Metro Management <br/> System</h1>
+      <h1 className='brand-name-align'>Patient Helping <br/> System</h1>
       </div>
       </Col>
       </Row>
